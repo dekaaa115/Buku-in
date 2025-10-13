@@ -27,8 +27,5 @@ Berikut adalah tampilan dari beberapa halaman utama pada web Bukuin :
 3. Dashboard
     ![Dashboard](./assets/images/dashboard.png)
 
-4. Data Buku
-    ![Data Buku](./assets/images/databuku.png)
-
-5. ERD
+4. ERD
     ![ERD](./assets/images/ERD.png)
