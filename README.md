@@ -31,4 +31,4 @@ Berikut adalah tampilan dari beberapa halaman utama pada web Bukuin :
     ![ERD](./assets/images/ERD.png)
 
 5. Tabel NF
-    ![Tabel NF](./assets/images/tabel NF.png)
+    ![Tabel NF](./assets/images/tabel_nf.png)
