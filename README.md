@@ -29,3 +29,6 @@ Berikut adalah tampilan dari beberapa halaman utama pada web Bukuin :
 
 4. Data Buku
     ![Data Buku](./assets/images/databuku.png)
+
+5. ERD
+    ![ERD](./assets/images/ERD.png)
