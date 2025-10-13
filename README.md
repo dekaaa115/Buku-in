@@ -29,3 +29,6 @@ Berikut adalah tampilan dari beberapa halaman utama pada web Bukuin :
 
 4. ERD
     ![ERD](./assets/images/ERD.png)
+
+5. Tabel NF
+    ![Tabel NF](./assets/images/tabel NF.png)
