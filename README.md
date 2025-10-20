@@ -32,3 +32,6 @@ Berikut adalah tampilan dari beberapa halaman utama pada web Bukuin :
 
 5. Tabel NF
     ![Tabel NF](./assets/images/tabel_nf.png)
+
+6. Class Diagram
+    ![Class Diagram](./assets/images/class_diagram.png)
