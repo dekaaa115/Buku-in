@@ -41,7 +41,10 @@ Berikut adalah tampilan dari beberapa halaman utama pada web Bukuin :
 
 8. Activity Diagram (Pinjam Buku dan Pengembalian Buku)
     ![Activity Diagram](./assets/images/activity_diagram_pinjam-buku.jpg)
-    
+
     ![Activity Diagram](./assets/images/activity_diagram_pengembalian-buku.jpg)
-9. Sequence Diagram
-    ![Sequence Diagram](./assets/images/sequence_diagram.png)
+
+9. Sequence Diagram (Pinjam Buku dan Pengembalian Buku)
+    ![Sequence Diagram](./assets/images/sequence_diagram_pinjam-buku.jpg)
+
+    ![Sequence Diagram](./assets/images/sequence_diagram_pengembalian-buku.jpg)
